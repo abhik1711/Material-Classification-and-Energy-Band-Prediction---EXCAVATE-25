@@ -1,5 +1,3 @@
-Certainly! Here’s a **detailed and professional README** for your GitHub repository, integrating all important aspects from your project, dataset, methodology, and results.
-
 # Unveiling Band Gaps in Perovskite Oxides for Next-Gen Electronics
 
 ## Project Overview
